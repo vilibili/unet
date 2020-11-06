@@ -12,7 +12,8 @@ Put images and maks in dataset/images and dataset/masks
 
 3. train.txt and val.txt
 
-put images in here:
+put images name in here:
+
 image_name_1
 image_name_2
 .
