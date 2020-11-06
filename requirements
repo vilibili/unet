@@ -1,5 +1,4 @@
 tensorflow-gpu ==1.14
 keras==2.1
 imageio
-tqdm
 numpy
