@@ -15,10 +15,15 @@ Put images and maks in dataset/images and dataset/masks
 put images name in here:
 
 image_name_1
+
 image_name_2
+
 .
+
 .
+
 .
+
 image_nameN
 
 4. image size
