@@ -1,6 +1,7 @@
 # unet
 This is an implementation of unet using keras.
-
+this is my profile in linkedin : https://www.linkedin.com/in/ali-khaki-84531b1bb/
+I will be happy to help you. Please feel free to contact me.
 
 1. requirements
 
