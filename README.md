@@ -1,6 +1,8 @@
 # unet
 This is an implementation of unet using keras.
-In the following, there are a predicted mask (Eye image-Groundtruth image-Predicted mask):
+
+In the following, there is a predicted mask with image and groundtruth (In order from left to right: Eye image-Groundtruth image-Predicted mask):
+
 ![image](https://user-images.githubusercontent.com/32045892/123511642-b3360600-d697-11eb-8064-f016706a46e3.png)
 ![image](https://user-images.githubusercontent.com/32045892/123511647-b7622380-d697-11eb-9dc5-2e08d8867ef5.png)
 ![image](https://user-images.githubusercontent.com/32045892/123511648-baf5aa80-d697-11eb-8742-40208faad28a.png)
