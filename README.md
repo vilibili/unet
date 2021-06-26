@@ -1,10 +1,12 @@
 # unet
 This is an implementation of unet using keras.
+In the following, there are a predicted mask (Eye image-Groundtruth image-Predicted mask):
+![image](https://user-images.githubusercontent.com/32045892/123511642-b3360600-d697-11eb-8064-f016706a46e3.png)
+![image](https://user-images.githubusercontent.com/32045892/123511647-b7622380-d697-11eb-9dc5-2e08d8867ef5.png)
+![image](https://user-images.githubusercontent.com/32045892/123511648-baf5aa80-d697-11eb-8742-40208faad28a.png)
+
 
 1. requirements
-![image](https://user-images.githubusercontent.com/32045892/123511541-11161e00-d697-11eb-820d-e89c168b9765.png) ![image](https://user-images.githubusercontent.com/32045892/123511559-268b4800-d697-11eb-9969-b49beb293048.png) ![image](https://user-images.githubusercontent.com/32045892/123511562-2ee38300-d697-11eb-8bf3-7eeb09b2e38e.png)
-
-
 
 pip install -r requirements.txt
 
