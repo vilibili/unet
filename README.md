@@ -2,6 +2,9 @@
 This is an implementation of unet using keras.
 
 1. requirements
+![image](https://user-images.githubusercontent.com/32045892/123511541-11161e00-d697-11eb-820d-e89c168b9765.png) ![image](https://user-images.githubusercontent.com/32045892/123511559-268b4800-d697-11eb-9969-b49beb293048.png) ![image](https://user-images.githubusercontent.com/32045892/123511562-2ee38300-d697-11eb-8bf3-7eeb09b2e38e.png)
+
+
 
 pip install -r requirements.txt
 
